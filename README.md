@@ -13,6 +13,7 @@ This project, titled **FDF**, is a basic computer graphics program written in C.
 - MiniLibX library
 - Math library (-lm)
 - A properly formatted `.fdf` file as input
+- x86 processor 
 
 ## Installation
 1. Clone the repository:
