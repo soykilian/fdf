@@ -30,6 +30,7 @@ To run the program, use the following command:
 ```bash
 ./fdf <file.fdf>
 ```
+There are some map examples on test_maps
 ## Controls 
 - ESC key: Exit the program
 - Window close button: Quit and close the window
