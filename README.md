@@ -2,6 +2,13 @@
 
 ## Project Overview
 This project, titled **FDF**, is a basic computer graphics program written in C. The goal of the project is to create a simple wireframe model representation of a 3D landscape by linking various points in 3D space using line segments. The project makes use of the MiniLibX, a simple graphics library, to handle window management, rendering, and user interactions.
+## Screenshots
+
+![42](./img/42.png)
+
+![Terrain](./img/Terrain.png)
+
+![France](./img/France.png)
 
 ## Key Features
 - **Isometric Projection:** The 3D landscape is displayed using an isometric projection for clear visualization.
