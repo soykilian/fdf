@@ -6,8 +6,6 @@ This project, titled **FDF**, is a basic computer graphics program written in C.
 
 ![42](./img/42.png)
 
-![Terrain](./img/Terrain2.png)
-
 ![France](./img/France.png)
 
 ## Key Features
